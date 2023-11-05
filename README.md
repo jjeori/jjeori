@@ -15,11 +15,6 @@
 - MYSQL
 - TABLEAU
 
-
-## PROJECT
-- 세 줄 독후감 (-ing)
-- 천안시 데이터 시각화 공모전 (end)
-
 <!--
 **jjeori/jjeori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
